@@ -1,0 +1,69 @@
+
+body {
+    padding:20vw 5vw;
+    background-color: #008080;
+}
+
+#new-quote {
+    font-family : 'Open Sans', sans-serif;
+    color: white;
+    background-color: #008080;
+    font-size: 1em;
+    padding: 1vw 2vw;
+    margin: 1vw;
+}
+
+#facebook-quote {
+    color: white;
+    background-color: #008080;
+    padding: 1vw 2vw;
+    font-size: 1em;
+	margin: 1vw;
+}
+
+#text {
+    text-align: center;
+    font-size: 3em;
+    font-family:'Dancing Script', cursive;
+}
+
+#box  {
+    background-color: #F8F9F9;
+    padding: 1vw 4vw;
+    box-shadow:.5vw .5vw 1.2vw #838383;
+}
+
+
+
+#footer{
+    position: fixed;
+    padding: 10px 10px 10px 10px;
+    bottom: 10px;
+    width: 90%;
+    height: 30px;
+    background:#F8F9F9;
+}
+ #footer p {
+     text-align: center;
+     font-family: 'Open sans', sans-serif;
+ }
+
+ #author {
+     text-align: center;
+     font-family: 'Open Sans', sans-serif;
+     font-size: 1em;
+     margin-top: 2vh;
+ }
+
+ #start-quote {
+     font-family: 'Dancing Script', cursive;
+     text-align: left;
+     margin-bottom: -3vh;
+
+ }
+
+ #end-quote {
+     font-family: 'Dancing Script', cursive;
+     text-align: right;
+     margin-top: 1vh;
+ }
